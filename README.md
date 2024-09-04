@@ -1,7 +1,7 @@
 # Student-Mental-Health
 
 - Project Title: Report on the Effect of Mental Health on Student CGPA
-- Data Visualization Tool: Tableau
+- Data Visualization Tool: Tableau & Excel (Power Query)
 - Datasets Source: [Quantum Analytics](https://quantumanalyticsco.org/)
 
 ## Data Insights
